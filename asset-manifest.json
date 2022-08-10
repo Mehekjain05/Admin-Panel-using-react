@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Admin-Panel-using-react/static/css/main.e6c13ad2.css",
+    "main.js": "/Admin-Panel-using-react/static/js/main.3f041859.js",
+    "index.html": "/Admin-Panel-using-react/index.html",
+    "main.e6c13ad2.css.map": "/Admin-Panel-using-react/static/css/main.e6c13ad2.css.map",
+    "main.3f041859.js.map": "/Admin-Panel-using-react/static/js/main.3f041859.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3f041859.js"
+  ]
+}
